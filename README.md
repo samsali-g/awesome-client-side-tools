@@ -21,6 +21,7 @@ Contributions welcome. Criteria: the core processing must run client-side (WASM,
 - [PDF.js](https://mozilla.github.io/pdf.js/) — Mozilla's PDF renderer, the reference client-side implementation.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) — self-hostable PDF toolbox (local when you run it yourself).
 - [ExifStudio PDF Metadata](https://www.exifstudio.online/pdf-metadata) — inspect, edit, and strip PDF Info dictionaries in the browser.
+- [CreoArt Poster Studio](https://poster.creoart.app/) — free 300 dpi browser-local poster canvas and printable PDF suite ([ID Card Front & Back on A4](https://poster.creoart.app/id-card-front-and-back), [Printable Calendar Maker](https://poster.creoart.app/printable-calendar-maker), [Multi-Page Poster Tiler](https://poster.creoart.app/print-large-poster-multiple-pages), and [Wi-Fi QR Signs](https://poster.creoart.app/wifi-qr-sign-maker)) rendered entirely via HTML5 Canvas with zero file uploads.
 
 ## Developer & Data
 
