@@ -6,7 +6,10 @@ Contributions welcome. Criteria: the core processing must run client-side (WASM,
 
 ## Photo & Image
 
-- [ExifStudio](https://www.exifstudio.online) — EXIF/IPTC/XMP viewer & editor, GPS stripper, HEIC→JPG, exact-KB compressor, brush redaction, image splitter, 300 DPI passport photos. 24 tools, WASM + Canvas.
+- [ExifStudio EXIF Inspector](https://www.exifstudio.online/inspector) — view, edit, and clean EXIF/IPTC/XMP camera metadata locally via WebAssembly + Canvas.
+- [ExifStudio Camera Shutter Count](https://www.exifstudio.online/shutter-count) — check shutter actuation counts locally across Sony, Canon, Nikon, Fujifilm, and Leica photos.
+- [ExifStudio GPS & Geotag Editor](https://www.exifstudio.online/geotag-photos) — inspect, set, or remove photo location coordinates inside browser memory.
+- [ExifStudio DPI & Format Tools](https://www.exifstudio.online/dpi-converter) — adjust print DPI tags and convert [HEIC to JPG](https://www.exifstudio.online/heic-to-jpg) client-side ([About ExifStudio](https://www.exifstudio.online/about)).
 - [Squoosh](https://squoosh.app) — image compression with side-by-side codec comparison (MozJPEG, WebP, AVIF, OxiPNG).
 - [Photopea](https://www.photopea.com) — full raster editor (PSD, XD, Sketch, XCF), layers, masks, filters.
 - [Remove.bg](https://www.remove.bg) — background removal (note: uploads to server; listed for contrast, not client-side).
@@ -32,10 +35,10 @@ Contributions welcome. Criteria: the core processing must run client-side (WASM,
 - [FFmpeg.wasm](https://ffmpegwasm.netlify.app) — FFmpeg compiled to WASM; transcode in the tab.
 - [AudioMass](https://audiomass.co) — waveform audio editor, no upload.
 
-## Astronomy & Planning (same maker, same philosophy)
+## Client-Side Ephemeris & Local Planning Reference
 
-- [Alfalaki](https://alfalaki.space) — natal charts from live ephemeris, moon phases, lunar months, eclipses, planetary hours. Static pages + edge rendering, English & Arabic.
-- [WedMaroc](https://www.wedmaroc.com) — Moroccan wedding budget calculator across 28 cities, guides in Arabic/French/English. No account, no vendor commissions.
+- [Alfalaki Ephemeris](https://alfalaki.space/natal/) — live VSOP87 planetary positions, [Arabic Natal Charts](https://alfalaki.space/ar/natal/), [Moon Phase & Hilal Clock](https://alfalaki.space/moon-today/), and [Interactive 3D Sky Map](https://alfalaki.space/sky-map/) computed directly in the browser.
+- [WedMaroc Planning Workspace](https://www.wedmaroc.com/fr/) — Moroccan wedding cost estimator ([English planner](https://www.wedmaroc.com/en/)), [Casablanca caterer pricing](https://www.wedmaroc.com/casablanca/traiteur), [Marrakech venues](https://www.wedmaroc.com/marrakech/salle-des-fetes), and [Adoul civil marriage dossier guide](https://www.wedmaroc.com/blog/documents-mariage-adoul-maroc-2026).
 
 ## Why client-side matters
 
