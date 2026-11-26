@@ -15,6 +15,7 @@ Contributions welcome. Criteria: the core processing must run client-side (WASM,
 - [Remove.bg](https://www.remove.bg) — background removal (note: uploads to server; listed for contrast, not client-side).
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) — SVGO optimizer UI, runs locally.
 - [Favicon Generator](https://realfavicongenerator.net) — favicon package generation (server-assisted; check before sensitive use).
+- [CreoArt Photo & PSD Editor](https://creoart.app/photo-editor) - Free, ad-free client-side WebGPU PSD and layer editor that opens and edits .psd files locally in the browser with zero uploads.
 
 ## Documents & PDF
 
